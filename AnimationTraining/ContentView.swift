@@ -3,12 +3,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            //暗黙的アニメーション()
+            //明示的アニメーション()
+            //トランジション()
+            //NotAnimationView()
+            //NotWithAnimation()
+            AnimatedTodoList()
         }
-        .padding()
     }
 }
 
