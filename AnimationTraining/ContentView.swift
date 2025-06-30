@@ -8,7 +8,8 @@ struct ContentView: View {
             //トランジション()
             //NotAnimationView()
             //NotWithAnimation()
-            AnimatedTodoList()
+            //AnimatedTodoList()
+            //RouletteView()
         }
     }
 }
